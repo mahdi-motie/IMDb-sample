@@ -1,0 +1,70 @@
+.nav-d {
+  width: 100%;
+  height: 56px;
+  background-color: #121212;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  gap: 25px;
+  align-items: center;
+  direction: rtl;
+}
+
+.nav-d .container {
+  display: flex;
+  color: white;
+  align-items: center;
+  font-size: 14px;
+  gap: 5px;
+  white-space: nowrap;
+  padding: 8px;
+  border-radius: 18px;
+  cursor: pointer;
+}
+
+.nav-d .container:hover{
+  background-color: #9e9e9e20;
+}
+@media (max-width:1380px){
+.nav-d .dn{
+  display: none;
+}
+}
+
+.nav-d .container svg {
+  fill: white;
+}
+.nav-d .line {
+  width: 1px;
+  height: 60%;
+  background-color: rgba(239, 239, 239, 0.289);
+}
+.nav-d .search-bar {
+    direction: ltr;
+  width: 45vw;
+  border-radius: 3px;
+  background-color: #ffffff;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+}
+.nav-d .search-bar .all{
+display: flex;
+flex-flow: row;
+align-items: center;
+padding-left: 15px;
+border-right: 1px rgba(62, 61, 61, 0.404) solid;
+}
+.nav-d .search-bar svg{
+    margin-right: 10px;
+    fill: #9e9e9e;
+}
+.nav-d .search-bar input {
+  direction: ltr;
+  width: 40vw;
+  height: 33px;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  padding: 8px;
+}

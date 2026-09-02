@@ -1,0 +1,26 @@
+.mbl-size .top-topics {
+    width: 100%;
+    height: 60px;
+    padding: 10px;
+    margin: 10px auto;
+  overflow: scroll;
+  scrollbar-width: none;
+
+}
+.mbl-size .top-topics .topics {
+  width: 800px;
+  height: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 10px;
+}
+
+.mbl-size .top-topics .topics a {
+  width: 120vw;
+  border: 1px solid gray;
+  color: silver;
+  border-radius: 25px;
+  text-align: center;
+  line-height: 35px;
+  cursor: pointer;
+}

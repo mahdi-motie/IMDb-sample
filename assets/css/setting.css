@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: imdb;
+}
+
+
+@font-face {
+    font-family: imdb;
+    src: url(../fonts/imdb-font.woff2);
+}
+
+@font-face {
+    font-family: big;
+    src: url(../fonts/bigassfont.woff2);
+}
+
+
+@media (min-width:340px) {
+    .dsk-size {
+        display: none;
+    }
+    .mbl-size {
+        display: block;
+    }
+}
+@media (max-width:760px) {
+    .dsk-size {
+        display: none;
+    }
+    .mbl-size {
+        display: block;
+    }
+}
+
+@media (min-width:761px) {
+    .dsk-size {
+        display: block;
+    }
+    .mbl-size {
+        display: none;
+    }
+}

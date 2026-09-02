@@ -1,0 +1,158 @@
+section.top-week {
+  width: 100%;
+  max-width: 80%;
+  height: fit-content;
+  margin: 0 auto !important;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 20px;
+}
+section.top-week .topic-title {
+  width: 100%;
+  height: fit-content;
+  padding: 8px;
+  border-left: 7px solid yellowgreen;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+section.top-week .topic-title p.title {
+  color: white;
+  font-size: 22px;
+  font-weight: 100;
+}
+section.top-week .layout {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-flow: row nowrap;
+}
+section.top-week .layout .card-top .div1 {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  background-color: #1f1f1f !important;
+  background: linear-gradient(
+    90deg,
+    rgba(11, 85, 163, 0.4) 0%,
+    rgba(12, 69, 130, 0) 28%,
+    rgba(9, 9, 121, 0) 100%
+  );
+  padding: 15px 10px;
+}
+section.top-week .layout .card-top .div1 .card-body {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    gap: 20px;
+}
+
+section.top-week .layout .card-top .div1 .card-body .card-cover {
+    width: 100%;
+    height: 100%;
+}
+section.top-week .layout .card-top .div1 .card-body .card-cover img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+section.top-week .layout .card-top .div1 .card-body .card-titles {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 20px;
+    color: white;
+}
+section.top-week .layout .card-top .div1 .card-body .card-titles p.tier-number {
+    width: fit-content;
+    padding: 2px 12px;
+    background-color: #0e63be;
+    border-radius: 8px;
+}
+
+section.top-week .layout .card-top .div1 .card-body .card-titles p.title {
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+section.top-week .layout .card-top .div1 .card-body .card-titles p.rate a.rating  {
+    color: #0e63be;
+    padding-left: 8px;
+}
+section.top-week .layout .card-top .div1 .card-body .card-titles a.mark {
+    color: #0e63be;
+}
+section.top-week .layout .card-top .div1 .card-body .card-titles p.describtion {
+    text-align: left;
+    overflow: hidden;
+
+}
+
+
+
+section.top-week .layout .card-top .grid-layout {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+}
+@media (max-width: 1690px) {
+    .top-week .layout .card-top .grid-layout {
+        grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-rows: repeat(2, 1fr);
+    }
+    .top-week .layout .card-top .div1 .card-body .card-titles p.describtion {
+        font-size: 24px;
+    }
+}
+@media (max-width: 1470px) {
+    .top-week .layout .card-top .grid-layout {
+        grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-rows: repeat(2, 1fr);
+    }
+    .top-week .layout .card-top .div1 .card-body .card-titles p.describtion {
+        font-size: 20px;
+    }
+}
+@media (max-width: 1290px) {
+    .top-week .layout .card-top .grid-layout {
+        grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-rows: repeat(2, 1fr);
+    }
+    .top-week .layout .card-top .div1 .card-body .card-titles p.describtion {
+        font-size: 17px;
+    }
+}
+@media (max-width: 1150px) {
+    .top-week .layout .card-top .grid-layout {
+        grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-rows: repeat(2, 1fr);
+    }
+    .top-week .layout .card-top .div1 .card-body .card-titles p.describtion {
+        font-size: 14px;
+    }
+}
+@media (max-width: 1035px) {
+    .top-week .layout .card-top .grid-layout {
+        grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-rows: repeat(2, 1fr);
+    }
+    .top-week .layout .card-top .div1 .card-body .card-titles p.describtion {
+        font-size: 10px;
+    }
+}
+@media (max-width: 895px) {
+    .top-week .layout .card-top .grid-layout {
+        grid-template-columns: repeat(1, 1fr) !important;
+    grid-template-rows: repeat(2, 1fr);
+    }
+    .top-week .layout .card-top .div1 .card-body .card-titles p.describtion {
+        font-size: 20px;
+        width: 80%;
+        padding-top: 20px;
+    }
+}

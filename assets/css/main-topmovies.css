@@ -1,0 +1,11 @@
+@import url(./mobile/mobile-topmovies.css) only screen and (max-width: 760px) and (min-width: 340px);
+@import url(./desktop/desktop-topmovies.css) only screen and (min-width: 761px);
+@import url(./setting.css);
+
+/* desktop nav and footer (shared with home.html) */
+@import url(./desktop/t250md-nav.css);
+@import url(./desktop/t250md-footer.css);
+@import url(./desktop/nav-submenu-d.css);
+/* mobile nav and footer (shared with home.html) */
+@import url(./mobile/t250mm-footer.css);
+@import url(./mobile/t-movies-m-nav.css);

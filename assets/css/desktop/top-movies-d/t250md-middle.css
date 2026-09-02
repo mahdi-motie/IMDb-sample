@@ -1,0 +1,15 @@
+.t250md-middle {
+    direction: ltr;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+.t250md-middle .t250md-ls {
+  width: 60vw;
+}
+.t250md-middle .t250md-rs {
+  width: 30vw;
+  height:  fit-content;
+  position: sticky;
+  top: 10px;
+}

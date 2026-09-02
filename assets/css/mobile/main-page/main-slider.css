@@ -1,0 +1,104 @@
+.mbl-size {
+  width: 100%;
+  height: fit-content;
+  background-color: black;
+}
+
+.mbl-size section.main-slider {
+  width: 100%;
+  height: 360px;
+  margin: 0px auto;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-radius: 15px;
+}
+.mbl-size section.main-slider .mainSwiper {
+  width: 100%;
+  height: 100%;
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper {
+  width: 100%;
+  height: 100%;
+  /* background-color: gray; */
+  position: relative;
+
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide {
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  /* background: #444; */
+  display: flex;
+  flex-flow: column nowrap;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .card-background {
+  position: relative;
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .card-background img {
+  width: 100%;
+  height: 100%;
+  z-index: 20;
+  border-radius: 15px;
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .front-view {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-flow: row nowrap;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .front-view .cover-img {
+  width: 40%;
+  height: 100%;
+  
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .front-view .cover-img img {
+  object-fit: contain;
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .front-view .movie-names {
+  width: 60%;
+  height: 80%;
+  display: flex;
+  flex-flow: column wrap;
+  gap: 10px;
+  justify-content: end;
+  align-items: start;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
+}
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .front-view .movie-names p.title {
+  color: white;
+  font-weight: 300;
+  text-align: left;
+  
+}
+
+.mbl-size section.main-slider .mainSwiper .swiper-wrapper .swiper-slide .card .front-view .movie-names p.describtion {
+  color: silver;
+  text-align: left;
+  font-size: 13px;
+  font-weight: 100;
+}
+.mbl-size section.main-slider .browes {
+  width: 100%;
+  margin: 0 auto;
+  height: fit-content;
+  padding: 10px 20px;
+  
+}
+.mbl-size section.main-slider .browes p {
+  color: white;
+  text-align: left;
+}

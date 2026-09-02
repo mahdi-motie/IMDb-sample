@@ -1,0 +1,88 @@
+.submenu {
+  width: 100%;
+  height: 0px;
+  background-color: #1F1F1F;
+  border-bottom-right-radius: 18px;
+  display: flex;
+  flex-flow: column;
+  gap: 20px;
+  justify-content: start;
+  align-items: start;
+  /* padding: 20px; */
+  position: absolute;
+  top: 0px;
+  /* left: -100%;  */
+  transition: 300ms;
+  overflow: hidden;
+  z-index: 999999;
+}
+.active {
+  height: 150vh !important;
+  width: 100%;
+  padding: 20px;
+}
+.submenu .top{
+    margin: 10px auto;
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content: center;
+    gap: 60vw;
+}
+.submenu .top svg {
+    width: 100px;
+    height: 50px;
+}
+.submenu .top svg path{
+   width: 100px;
+}
+.submenu .top .close{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color:  rgb(245,197,24);
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+
+/* comp */
+.submenu .ctg{
+    direction: ltr;
+    margin: 30px auto;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    gap: 10vw;
+}
+.submenu .ctg .components{
+    display: flex;
+    flex-flow: column;
+}
+.submenu .ctg .components .container{
+    display: flex;
+    flex-flow: column;
+    gap: 20px;
+}
+.submenu .ctg .components .container .menu-title{
+    display: flex;
+    flex-flow: row;
+    gap: 10px;
+    
+}
+.submenu .ctg .components .container .menu-title svg{
+    fill:  rgb(245,197,24);
+}
+.submenu .ctg .components .container .menu-title h2{
+    color: white;
+    line-height: 23px;
+}
+.submenu .ctg .components .container a{
+    margin-left: 29px;
+    color: white;
+     font-size: 1vw;
+
+}
+.submenu .ctg .components .container a:hover{
+   text-decoration: underline solid white;
+   
+}

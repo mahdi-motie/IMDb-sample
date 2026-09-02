@@ -1,0 +1,59 @@
+.nav-m {
+  width: 100%;
+  height: 56px;
+  background-color: rgb(18, 18, 18);
+  display: flex;
+  flex-flow: row ;
+  gap: 30px;
+  justify-content: space-between;
+}
+.nav-m .nav-m-r-container {
+  display: flex;
+  flex-flow: row;
+  gap: 8px;
+  padding: 10px 12px;
+}
+.nav-m .nav-m-r-container .use-app {
+  width: 68px;
+  height: 36px;
+  background-color: #f5c518;
+  line-height: 20px;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 18px;
+}
+.nav-m .nav-m-r-container .sign {
+  color: #ffffff;
+  field-sizing: 14px;
+  font-weight: 200;
+  height: 36px;
+  padding: 8px;
+}
+.nav-m .nav-m-r-container svg {
+  width: 36px;
+  height: 36px;
+  padding: 8px;
+}
+.nav-m .nav-m-l-container {
+    display: flex;
+    flex-flow: row;
+    padding: 12px;
+    gap: 15px;
+}
+.nav-m .nav-m-l-container .logo-nav{
+    background-color: rgb(245, 197, 24);
+    width: 64px;
+    height: 32px;
+    font-size: 22px;
+    font-weight: bolder;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 2px;
+    font-family: big !important;
+}
+.nav-m .nav-m-l-container svg {
+  width: 28px;
+  height: 22px;
+  margin-top: 5px;
+}
+

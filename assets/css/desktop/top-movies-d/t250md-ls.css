@@ -1,0 +1,256 @@
+.t250mm-title {
+  width: 95%;
+  height: 203px;
+  padding: 16px 16px 0px;
+  margin: 20px auto 0px;
+  display: flex;
+  flex-flow: column;
+}
+
+.t250mm-title .container {
+  height: 50px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+
+}
+.t250mm-title .container h3 {
+  font-size: 13px;
+  color: #404040;
+  font-weight: 100;
+  letter-spacing: 2px;
+  word-spacing: 3px;
+  margin-top: 20px;
+}
+.t250mm-title .container svg{
+        width: 24px;
+        height: 24px;
+        margin-top: 20px;
+
+}
+.t250mm-title h2{
+    font-size: 36px;
+    font-weight: 200 !important;
+    color: #000000de;
+}
+.t250mm-title .text{
+  margin-top: 10px;  
+  font-size: 16px;
+  color: #0000004A;
+}
+/* rating bar */
+.t250mm-rating-bar {
+  width: 95%;
+  height: 203px;
+  padding: 12px 12px ;
+  margin: 10px auto;
+  display: flex;
+  flex-flow: column;
+}
+.t250mm-rating-bar .rating-bar{
+    width: 100%;
+    height: 12px;
+    border-radius: 12px;
+    background-color: rgb(227, 228, 228);
+}
+
+
+.t250mm-rating-bar .rating-bar .bar-filler{
+    width: 32%;
+    border-radius: 12px;
+    height: 12px;
+    background-color: #0E63BE;
+}
+.t250mm-rating-bar .total-watched{
+    margin-top: 15px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    direction: ltr;
+}
+.t250mm-rating-bar .total-watched span{
+    font-size: 12px;
+    letter-spacing:  1px;
+    word-spacing: 3px;
+}
+.t250mm-rating-bar .total-watched p{
+    font-size: 12px;
+}
+
+.t250mm-rating-bar .chart-style {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    direction: ltr;
+    margin-top: 15px;
+    gap: 29px;
+}
+
+.t250mm-rating-bar .chart-style h3{
+    font-size: 16px;
+
+}
+.t250mm-rating-bar .chart-style .ctg-btn{
+    width: 52px;
+    height: 28px;
+    border-radius: 18px;
+    background-color: #0E63BE;
+    padding: 0px 12px;
+}
+
+.t250mm-rating-bar .chart-style .ctg-btn svg{
+    fill: #ffffff;
+    
+}
+/* cards */
+.t250md-ranking{
+display: flex;
+flex-flow: column;
+gap: 10px;
+
+}
+.t250md-ranking .tmm-card{
+    width: 93%;
+    height: 150px;
+    background-color: #FAFAFA;
+    border-radius: 12px;
+    margin: 0px auto;
+    display: flex;
+    flex-flow: row;
+    direction: ltr;
+    justify-content: space-between;
+}
+.t250md-ranking .tmm-card img{
+    width: 72px;
+    height: 106px;
+    border-radius: 0px 12px 12px 12px ;
+    margin-top: 23px;
+   
+}
+
+.t250md-ranking .tmm-card .movie-m-data{
+    width: 50%;
+    display: flex;
+    flex-flow: column;  
+    gap: 7px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.t250md-ranking .tmm-card .movie-m-data .rank-num-m{
+    width: 40px;
+    height: 22px;
+    background-color: #0e63be;
+    color: #ffffff;
+    border-radius: 6px;
+    text-align: center;
+    line-height: 22px;
+    font-size: 14px;
+}
+.t250md-ranking .tmm-card .movie-m-data h4{
+    font-size: 16px;
+
+}
+.t250md-ranking .tmm-card .movie-m-data span{
+    color: #00000882;
+    font-size: 13px;
+}
+.t250md-ranking .tmm-card .movie-m-data .watched-mark{
+    margin-top: 6px;
+}
+.t250md-ranking .tmm-card .movie-m-data .watched-mark span{
+    font-size: 14px;
+    color: #0e63be;
+    font-weight: 100;
+   
+}
+.t250md-ranking .tmm-card .movie-m-data .watched-mark svg{
+    width: 17px;
+    height: 17px;
+    vertical-align: middle;
+}
+.t250md-ranking .tmm-card .info-btn{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: #0e63be;
+    border: #0e63be solid 2px;
+    padding: 3px 9px;
+    font-size: 13px;
+    margin: 55px auto;
+}
+/* cards tv shows */
+.t250sd-ranking{
+display: flex;
+flex-flow: column;
+gap: 10px;
+
+}
+.t250sd-ranking .tmm-card{
+    width: 93%;
+    height: 150px;
+    background-color: #FAFAFA;
+    border-radius: 12px;
+    margin: 0px auto;
+    display: flex;
+    flex-flow: row;
+    direction: ltr;
+    justify-content: space-between;
+}
+.t250sd-ranking .tmm-card img{
+    width: 72px;
+    height: 106px;
+    border-radius: 0px 12px 12px 12px ;
+    margin-top: 23px;
+   
+}
+
+.t250sd-ranking .tmm-card .movie-m-data{
+    width: 50%;
+    display: flex;
+    flex-flow: column;  
+    gap: 7px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.t250sd-ranking .tmm-card .movie-m-data .rank-num-m{
+    width: 40px;
+    height: 22px;
+    background-color: #0e63be;
+    color: #ffffff;
+    border-radius: 6px;
+    text-align: center;
+    line-height: 22px;
+    font-size: 14px;
+}
+.t250sd-ranking .tmm-card .movie-m-data h4{
+    font-size: 16px;
+
+}
+.t250sd-ranking .tmm-card .movie-m-data span{
+    color: #00000882;
+    font-size: 13px;
+}
+.t250sd-ranking .tmm-card .movie-m-data .watched-mark{
+    margin-top: 6px;
+}
+.t250sd-ranking .tmm-card .movie-m-data .watched-mark span{
+    font-size: 14px;
+    color: #0e63be;
+    font-weight: 100;
+   
+}
+.t250sd-ranking .tmm-card .movie-m-data .watched-mark svg{
+    width: 17px;
+    height: 17px;
+    vertical-align: middle;
+}
+.t250sd-ranking .tmm-card .info-btn{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: #0e63be;
+    border: #0e63be solid 2px;
+    padding: 3px 9px;
+    font-size: 13px;
+    margin: 55px auto;
+}

@@ -1,0 +1,3935 @@
+{
+  "mainSlider": [
+    {
+      "id": 1,
+      "img": "./assets/img/mbl-m-1.jpg",
+      "alt": "img-1",
+      "img2": "./assets/img/mbl-mc-1.jpg",
+      "title": "John Cena Stars in 'Matchbox the Movie'",
+      "describtion": "Watch the SDCC Teaser",
+      "rate": "👍 189 | 💕 80"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/mbl-m-2.jpg",
+      "alt": "img-2",
+      "img2": "./assets/img/mbl-mc-2.jpg",
+      "title": "Get Into 'The Odyssey' Craziness",
+      "describtion": "Watch Our Interview",
+      "rate": "👍 543 | 💕 279"
+    },
+    {
+      "id": 3,
+      "img": "./assets/img/mbl-m-3.jpg",
+      "alt": "img-3",
+      "img2": "./assets/img/mbl-mc-3.jpg",
+      "title": "Johnny Depp Is 'Ebenezer'",
+      "describtion": "Watch the Trailer",
+      "rate": "👍 485 | 💕 223"
+    },
+    {
+      "id": 4,
+      "img": "./assets/img/mbl-m-4.jpg",
+      "alt": "img-4",
+      "img2": "./assets/img/mbl-mc-4.jpg",
+      "title": "'Avengers: Doomsday' Official Trailer",
+      "describtion": "Watch the Trailer",
+      "rate": "👍 485 | 💕 223"
+    },
+    {
+      "id": 5,
+      "img": "./assets/img/mbl-m-5.jpg",
+      "alt": "img-5",
+      "img2": "./assets/img/mbl-mc-5.jpg",
+      "title": "'It Ends'",
+      "describtion": "Watch the Trailer",
+      "rate": "👍 485 | 💕 223"
+    },
+    {
+      "id": 6,
+      "img": "./assets/img/mbl-m-6.jpg",
+      "alt": "img-6",
+      "img2": "./assets/img/mbl-mc-6.jpg",
+      "title": "Mike Flanagan's Carrie",
+      "describtion": "Watch the Trailer",
+      "rate": "👍 485 | 💕 223"
+    },
+    {
+      "id": 7,
+      "img": "./assets/img/mbl-m-7.jpg",
+      "alt": "img-7",
+      "img2": "./assets/img/mbl-mc-7.jpg",
+      "title": "Spider-Man's Greatest Moments",
+      "describtion": "Watch the Trailer",
+      "rate": "👍 485 | 💕 223"
+    },
+    {
+      "id": 8,
+      "img": "./assets/img/mbl-m-8.jpg",
+      "alt": "img-8",
+      "img2": "./assets/img/mbl-mc-8.jpg",
+      "title": "Avatar: Seven Havens",
+      "describtion": "Watch the Trailer",
+      "rate": "👍 485 | 💕 223"
+    },
+    {
+      "id": 9,
+      "img": "./assets/img/mbl-m-9.jpg",
+      "alt": "img-9",
+      "img2": "./assets/img/mbl-mc-9.jpg",
+      "title": "Dark Matter Returns",
+      "describtion": "Watch the Trailer",
+      "rate": "👍 485 | 💕 223"
+    }
+  ],
+  "featured": [
+    {
+      "id": 1,
+      "img": "./assets/img/ft-1.jpg",
+      "alt": "img-1",
+      "title": "The Odyssey' and All the Summer Essentials",
+      "describtion": "Browse the guide"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/ft-2.jpg",
+      "alt": "img-2",
+      "title": "Photos We Love: San Diego Comic-Con 2026",
+      "describtion": "See the full gallery"
+    },
+    {
+      "id": 3,
+      "img": "./assets/img/ft-3.jpg",
+      "alt": "img-3",
+      "title": "The Odyssey' and All the Summer Essentials",
+      "describtion": "See the full gallery"
+    },
+    {
+      "id": 4,
+      "img": "./assets/img/ft-4.jpg",
+      "alt": "img-4",
+      "title": "Top 10 Soccer Movies and Series, Ranked",
+      "describtion": "See the lists"
+    },
+    {
+      "id": 5,
+      "img": "./assets/img/ft-5.jpg",
+      "alt": "img-5",
+      "title": "In Memoriam: Stars We Lost in 2026",
+      "describtion": "See more"
+    },
+    {
+      "id": 6,
+      "img": "./assets/img/ft-6.jpg",
+      "alt": "img-6",
+      "title": "TV Tracker: Renewed and Canceled Shows",
+      "describtion": "Check the status"
+    },
+    {
+      "id": 7,
+      "img": "./assets/img/ft-7.jpg",
+      "alt": "img-7",
+      "title": "Staff Picks: The Movies and Series We Recommend",
+      "describtion": "See our picks"
+    },
+    {
+      "id": 8,
+      "img": "./assets/img/ft-8.jpg",
+      "alt": "img-8",
+      "title": "'Idiots' and More: New Movie and TV Posters",
+      "describtion": "See more posters"
+    },
+    {
+      "id": 9,
+      "img": "./assets/img/ft-9.jpg",
+      "alt": "img-9",
+      "title": "Poll: L I M I N A L Spaces",
+      "describtion": "Vote now"
+    },
+    {
+      "id": 10,
+      "img": "./assets/img/ft-10.jpg",
+      "alt": "img-10",
+      "title": "'The Odyssey' and More to Watch in July",
+      "describtion": "Add these to your whishlist"
+    }
+  ],
+  "topWeek": [
+    {
+      "id": 1,
+      "img": "./assets/img/top-1.jpg",
+      "alt": "img-3-1",
+      "rank": "#1",
+      "title": "The Odyssey",
+      "rate": "⭐8.5(214K)"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/top-2.jpg",
+      "alt": "img-3-2",
+      "rank": "#2",
+      "title": "Obsession",
+      "rate": "⭐7.9(264K)"
+    },
+    {
+      "id": 3,
+      "img": "./assets/img/top-3.jpg",
+      "alt": "img-3-3",
+      "rank": "#3",
+      "title": "House of dragon",
+      "rate": "⭐8.3(550K)"
+    }
+  ],
+  "popular": [
+    {
+      "id": 1,
+      "img": "./assets/img/pop-1.jpg",
+      "alt": "img-1",
+      "title": "Drama"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/pop-2.jpg",
+      "alt": "img-2",
+      "title": "Hindi"
+    },
+    {
+      "id": 3,
+      "img": "./assets/img/pop-3.jpg",
+      "alt": "img-3",
+      "title": "Horror"
+    },
+    {
+      "id": 4,
+      "img": "./assets/img/pop-4.jpg",
+      "alt": "img-4",
+      "title": "Thriller"
+    },
+    {
+      "id": 5,
+      "img": "./assets/img/pop-5.jpg",
+      "alt": "img-5",
+      "title": "Anime"
+    },
+    {
+      "id": 6,
+      "img": "./assets/img/pop-6.jpg",
+      "alt": "img-6",
+      "title": "Comedy"
+    },
+    {
+      "id": 7,
+      "img": "./assets/img/pop-7.jpg",
+      "alt": "img-7",
+      "title": "Romance"
+    },
+    {
+      "id": 8,
+      "img": "./assets/img/pop-8.jpg",
+      "alt": "img-8",
+      "title": "Action"
+    },
+    {
+      "id": 9,
+      "img": "./assets/img/pop-9.jpg",
+      "alt": "img-9",
+      "title": "Telugu"
+    },
+    {
+      "id": 10,
+      "img": "./assets/img/pop-10.jpg",
+      "alt": "img-10",
+      "title": "Erotic Thriller"
+    },
+    {
+      "id": 11,
+      "img": "./assets/img/pop-11.jpg",
+      "alt": "img-11",
+      "title": "Gay"
+    }
+  ],
+  "bornToday": [
+    {
+      "id": 1,
+      "img": "./assets/img/bt-1.jpg",
+      "title": "Kaylee Hottle",
+      "alt": "img-borned"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/bt-2.jpg",
+      "title": "Kaylee Hottle",
+      "alt": "img-borned"
+    },
+    {
+      "id": 3,
+      "img": "./assets/img/bt-3.jpg",
+      "title": "Kaylee Hottle",
+      "alt": "img-borned"
+    },
+    {
+      "id": 4,
+      "img": "./assets/img/bt-4.jpg",
+      "title": "Kaylee Hottle",
+      "alt": "img-borned"
+    },
+    {
+      "id": 5,
+      "img": "./assets/img/bt-5.jpg",
+      "title": "Kaylee Hottle",
+      "alt": "img-borned"
+    },
+    {
+      "id": 6,
+      "img": "./assets/img/bt-6.jpg",
+      "title": "Kaylee Hottle",
+      "alt": "img-borned"
+    },
+    {
+      "id": 7,
+      "img": "./assets/img/bt-7.jpg",
+      "title": "Kaylee Hottle",
+      "alt": "img-borned"
+    }
+  ],
+  "topWeekDsk": [
+    {
+      "id": 1,
+      "img": "./assets/img/top-1.jpg",
+      "alt": "img-3-1",
+      "rank": "#1",
+      "title": "The Odyssey",
+      "rate": "⭐8.5(214K)"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/top-2.jpg",
+      "alt": "img-3-2",
+      "rank": "#2",
+      "title": "Obsession",
+      "rate": "⭐7.9(264K)"
+    },
+    {
+      "id": 3,
+      "img": "./assets/img/top-3.jpg",
+      "alt": "img-3-3",
+      "rank": "#3",
+      "title": "House of dragon",
+      "rate": "⭐8.3(550K)"
+    },
+    {
+      "id": 4,
+      "img": "./assets/img/top-4.jpg",
+      "alt": "img-4-4",
+      "rank": "#4",
+      "title": "Disclosure Day",
+      "rate": "⭐8.1(50K)"
+    }
+  ],
+  "card": [
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    }
+  ],
+  "card2": [
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/s1.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/s2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "Planet Earth II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/s3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "Planet Earth ",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/s4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "Band of Brothers",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/s5.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "Chernobyl",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/s6.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "The Wire",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/s7.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Avatar: The Last Airbender",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/s8.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Sopranos",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/s9.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/s10.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "Blue Planet II",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/s11.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/s12.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/s13.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/s14.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/s15.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/s16.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/s17.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/s18.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/s19.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/s20.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Breaking Bad",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.5"
+    }
+  ],
+  "cardm1": [
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 1,
+      "image": "./assets/img/ShawshankRedemptionMoviePoster.jpg",
+      "alt": "img-1",
+      "num": "1",
+      "title": "Shawshank redemption",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/m2.jpg",
+      "alt": "img-2",
+      "num": "2",
+      "title": "The Godfather",
+      "year": "1972 . 2h55m . R",
+      "rate": "9.2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/m3.jpg",
+      "alt": "img-3",
+      "num": "3",
+      "title": "The Dark Knight",
+      "year": "2008 . 2h22m . R",
+      "rate": "9.1"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/m4.jpg",
+      "alt": "img-4",
+      "num": "4",
+      "title": "The Godfather Part II",
+      "year": "1974 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/m6.jpg",
+      "alt": "img-5",
+      "num": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003 . 2h22m . R",
+      "rate": "9.0"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/m5.jpg",
+      "alt": "img-6",
+      "num": "6",
+      "title": "12 Angry Men",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/m66.jpg",
+      "alt": "img-7",
+      "num": "7",
+      "title": "Schindler's List",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/m77.jpg",
+      "alt": "img-8",
+      "num": "8",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/m7.jpg",
+      "alt": "img-9",
+      "num": "9",
+      "title": "Pulp Fiction",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/m8.jpg",
+      "alt": "img-10",
+      "num": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/m9.jpg",
+      "alt": "img-11",
+      "num": "11",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/m10.jpg",
+      "alt": "img-12",
+      "num": "12",
+      "title": "Forrest Gump",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/m11.jpg",
+      "alt": "img-13",
+      "num": "13",
+      "title": "Fight Club",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/m12.jpg",
+      "alt": "img-14",
+      "num": "14",
+      "title": "Inception",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/m13.jpg",
+      "alt": "img-15",
+      "num": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/m14.jpg",
+      "alt": "img-16",
+      "num": "16",
+      "title": "The Matrix",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/m15.jpg",
+      "alt": "img-17",
+      "num": "17",
+      "title": "Interstellar",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/m16.jpg",
+      "alt": "img-18",
+      "num": "18",
+      "title": "GoodFellas",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/m17.jpg",
+      "alt": "img-19",
+      "num": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/m18.jpg",
+      "alt": "img-20",
+      "num": "20",
+      "title": "Seven",
+      "year": "1994 . 2h22m . R",
+      "rate": "9.3"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+.t250mm-rating-bar {
+  width: 95%;
+  height: 203px;
+  padding: 12px 12px ;
+  margin: 30px auto;
+  display: flex;
+  flex-flow: column;
+}
+.t250mm-rating-bar .rating-bar{
+    width: 100%;
+    height: 12px;
+    border-radius: 12px;
+    background-color: rgb(227, 228, 228);
+}
+
+
+.t250mm-rating-bar .rating-bar .bar-filler{
+    width: 32%;
+    border-radius: 12px;
+    height: 12px;
+    background-color: #0E63BE;
+}
+.t250mm-rating-bar .total-watched{
+    margin-top: 15px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    direction: ltr;
+}
+.t250mm-rating-bar .total-watched span{
+    font-size: 12px;
+    letter-spacing:  1px;
+    word-spacing: 3px;
+}
+.t250mm-rating-bar .total-watched p{
+    font-size: 12px;
+}
+
+.t250mm-rating-bar .chart-style {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    direction: ltr;
+    margin-top: 15px;
+    gap: 29px;
+}
+
+.t250mm-rating-bar .chart-style h3{
+    font-size: 16px;
+
+}
+.t250mm-rating-bar .chart-style .ctg-btn{
+    width: 52px;
+    height: 28px;
+    border-radius: 18px;
+    background-color: #0E63BE;
+    padding: 0px 12px;
+}
+
+.t250mm-rating-bar .chart-style .ctg-btn svg{
+    fill: #ffffff;
+    
+}

@@ -1,0 +1,112 @@
+section.born-today {
+  width: 100%;
+  max-width: 80%;
+  height: fit-content;
+  margin: 0px auto;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+section.born-today .borns-title {
+  width: 100%;
+  height: fit-content;
+  padding: 8px;
+  border-left: 7px solid yellowgreen;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+section.born-today .borns-title p {
+  color: white;
+  font-size: 22px;
+  
+}
+section.born-today .borns-slider {
+  margin-top: 20px;
+}
+
+.born-today .borns-slider {
+  width: 100%;
+  height: fit-content;
+  margin: 0px auto;
+  display: flex;
+  flex-flow: row nowrap;
+}
+.born-today .borns-slider .bornSwiper {
+  width: 100%;
+  height: fit-content;
+}
+.born-today .borns-slider .bornSwiper .swiper-wrapper {
+  width: fit-content;
+  height: 100%;
+  background-color: black;
+  position: relative;
+}
+.born-today .borns-slider .bornSwiper .swiper-wrapper .swiper-slide {
+  width: fit-content;
+}
+
+.born-today .borns-slider .bornSwiper .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  flex-flow: column nowrap;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  /* background-color: #1a1a1a; */
+  border-radius: 15px;
+}
+
+.born-today .borns-slider .bornSwiper .swiper-slide .cover img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+.born-today .borns-slider .bornSwiper .swiper-slide .cover img::after {
+    content: "";
+}
+.born-today .borns-slider .bornSwiper .swiper-slide div.title {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 20px;
+    text-align: left;
+    
+}
+.born-today .borns-slider .bornSwiper .swiper-slide div.title p.main-title {
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.born-today .borns-slider .bornSwiper .swiper-button-next {
+  border: 1px solid white;
+  width: 60px;
+  height: 90px;
+  padding: 17px;
+  color: white;
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.37);
+  transition: 300ms;
+  position: absolute;
+  top: 35%;
+}
+.born-today .borns-slider .bornSwiper .swiper-button-next:hover {
+  color: yellow;
+}
+.born-today .borns-slider .bornSwiper .swiper-button-prev {
+  border: 1px solid white;
+  width: 60px;
+  height: 90px;
+  padding: 17px;
+  color: white;
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.37);
+  transition: 300ms;
+  position: absolute;
+  top: 35%;
+}
+.born-today .borns-slider .bornSwiper .swiper-button-prev:hover {
+  color: yellow;
+}

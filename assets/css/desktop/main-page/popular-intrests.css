@@ -1,0 +1,109 @@
+section.popular-intrests {
+  width: 100%;
+  max-width: 80%;
+  height: fit-content;
+  margin: 0px auto;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+section.popular-intrests .intrests-title {
+  width: 100%;
+  height: fit-content;
+  padding: 8px;
+  border-left: 7px solid yellowgreen;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+section.popular-intrests .intrests-title p {
+  color: white;
+  font-size: 22px;
+  
+}
+section.popular-intrests .intrests-slider {
+  margin-top: 20px;
+}
+
+.popular-intrests .intrests-slider {
+  width: 100%;
+  height: fit-content;
+  margin: 0px auto;
+  display: flex;
+  flex-flow: row nowrap;
+}
+.popular-intrests .intrests-slider .popularSwiper {
+  width: 100%;
+  height: fit-content;
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-wrapper {
+  width: fit-content;
+  height: 100%;
+  background-color: black;
+  position: relative;
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-wrapper .swiper-slide {
+  width: fit-content;
+}
+
+.popular-intrests .intrests-slider .popularSwiper .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  flex-flow: column nowrap;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 500px !important;
+  background-color: #1a1a1a;
+  border-radius: 15px;
+}
+
+.popular-intrests .intrests-slider .popularSwiper .swiper-slide .cover img {
+    width: 100%;
+    border-start-start-radius: 15px;
+    border-start-end-radius: 15px;
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-slide div.title {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 20px;
+    text-align: left;
+    
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-slide div.title p.main-title {
+    color: white;
+    padding: 10px;
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-button-next {
+  border: 1px solid white;
+  width: 60px;
+  height: 90px;
+  padding: 17px;
+  color: white;
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.37);
+  transition: 300ms;
+  position: absolute;
+  top: 35%;
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-button-next:hover {
+  color: yellow;
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-button-prev {
+  border: 1px solid white;
+  width: 60px;
+  height: 90px;
+  padding: 17px;
+  color: white;
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.37);
+  transition: 300ms;
+  position: absolute;
+  top: 35%;
+}
+.popular-intrests .intrests-slider .popularSwiper .swiper-button-prev:hover {
+  color: yellow;
+}

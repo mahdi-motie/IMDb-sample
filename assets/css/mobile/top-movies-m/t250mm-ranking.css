@@ -1,0 +1,74 @@
+.t250mm-ranking{
+display: flex;
+flex-flow: column;
+
+}
+.t250mm-ranking .tmm-card{
+    width: 93%;
+    height: 150px;
+    background-color: #FAFAFA;
+    border-radius: 12px;
+    margin: 0px auto;
+    display: flex;
+    flex-flow: row;
+    direction: ltr;
+    justify-content: space-between;
+}
+.t250mm-ranking .tmm-card img{
+    width: 72px;
+    height: 106px;
+    border-radius: 0px 12px 12px 12px ;
+    margin-top: 23px;
+   
+}
+
+.t250mm-ranking .tmm-card .movie-m-data{
+    width: 50%;
+    display: flex;
+    flex-flow: column;  
+    gap: 7px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.t250mm-ranking .tmm-card .movie-m-data .rank-num-m{
+    width: 40px;
+    height: 22px;
+    background-color: #0e63be;
+    color: #ffffff;
+    border-radius: 6px;
+    text-align: center;
+    line-height: 22px;
+    font-size: 14px;
+}
+.t250mm-ranking .tmm-card .movie-m-data h4{
+    font-size: 16px;
+
+}
+.t250mm-ranking .tmm-card .movie-m-data span{
+    color: #00000882;
+    font-size: 13px;
+}
+.t250mm-ranking .tmm-card .movie-m-data .watched-mark{
+    margin-top: 6px;
+}
+.t250mm-ranking .tmm-card .movie-m-data .watched-mark span{
+    font-size: 14px;
+    color: #0e63be;
+    font-weight: 100;
+   
+}
+.t250mm-ranking .tmm-card .movie-m-data .watched-mark svg{
+    width: 17px;
+    height: 17px;
+    vertical-align: middle;
+}
+.t250mm-ranking .tmm-card .info-btn{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: #0e63be;
+    border: #0e63be solid 2px;
+    padding: 3px 9px;
+    font-size: 13px;
+    margin: 55px auto;
+}

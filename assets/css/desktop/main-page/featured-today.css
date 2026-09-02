@@ -1,0 +1,119 @@
+.dsk-size section.featured-today {
+  width: 100%;
+  max-width: 80%;
+  height: fit-content;
+  margin: 20px auto;
+  padding-bottom: 40px;
+}
+.dsk-size section.featured-today .top-topics {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-flow: row wrap;
+  gap: 15px;
+  justify-content: left;
+  align-items: center;
+}
+
+.dsk-size section.featured-today .top-topics a {
+  border: 1px solid gray;
+  color: silver;
+  border-radius: 25px;
+  padding: 2px 10px;
+  cursor: pointer;
+}
+
+.dsk-size section.featured-today .featured-title {
+  width: 100%;
+  height: fit-content;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+.dsk-size section.featured-today .featured-title p {
+  color: yellow;
+  font-size: 30px;
+}
+.dsk-size section.featured-today .featured-slider {
+  background-color: yellowgreen;
+}
+
+.dsk-size .featured-slider {
+  width: 100%;
+  height: fit-content;
+  margin: 0px auto;
+  display: flex;
+  flex-flow: row nowrap;
+}
+.dsk-size .featured-slider .featuredSwiper {
+  width: 100%;
+  height: fit-content;
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-wrapper {
+  width: fit-content;
+  height: 100%;
+  background-color: black;
+  position: relative;
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-wrapper .swiper-slide {
+  width: fit-content;
+}
+
+.dsk-size .featured-slider .featuredSwiper .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  flex-flow: column nowrap;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 500px !important;
+}
+
+.dsk-size .featured-slider .featuredSwiper .swiper-slide .cover img {
+    width: 100%;
+    border-radius: 15px;
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-slide div.title {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 20px;
+    text-align: left;
+    
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-slide div.title p.main-title {
+    color: white;
+    padding-top: 10px;
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-button-next {
+  border: 1px solid white;
+  width: 60px;
+  height: 90px;
+  padding: 17px;
+  color: white;
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.37);
+  transition: 300ms;
+  position: absolute;
+  top: 35%;
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-button-next:hover {
+  color: yellow;
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-button-prev {
+  border: 1px solid white;
+  width: 60px;
+  height: 90px;
+  padding: 17px;
+  color: white;
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.37);
+  transition: 300ms;
+  position: absolute;
+  top: 35%;
+}
+.dsk-size .featured-slider .featuredSwiper .swiper-button-prev:hover {
+  color: yellow;
+}
